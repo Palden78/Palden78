@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h5 align="left"> My name is Palden</h5>
+<h5 align="left"> Im interested in full stack development, ML and data science</h5>
 
 ###
 
