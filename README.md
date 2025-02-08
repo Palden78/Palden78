@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/86504610?s=400&u=b27f5c82ea9677472eaac2699a5d1ad05aebe92d&v=4"  />
 
 ###
 
@@ -58,6 +57,5 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Palden78/Palden78/output/snake.svg" alt="Snake animation" />
 
 ###
