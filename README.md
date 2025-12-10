@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h5 align="left"> Im interested in full stack web development, ML and data science</h5>
 
 ###
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Palden78)](https://github.com/anuraghazra/github-readme-stats)
 ###
 
 
