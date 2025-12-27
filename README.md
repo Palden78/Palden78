@@ -51,7 +51,7 @@ Here are some ideas to get you started:
       <br />
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" height="40" />
       <br />
     </td>
     <td align="center" width="96">
@@ -90,7 +90,7 @@ Here are some ideas to get you started:
       <br />
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
       <br />
     </td>
     <td align="center" width="96">
