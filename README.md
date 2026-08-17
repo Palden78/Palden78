@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h5 align="left"> My name is Palden</h5>
-<h5 align="left"> Im interested in full stack web development, ML and data science</h5>
+<h5 align="left"> Im interested in full stack web development, cybersecurity, ML and data science</h5>
 
 
 
