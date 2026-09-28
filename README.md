@@ -16,7 +16,7 @@
 * 🛡️ Currently pursuing my path toward **Cybersecurity**
 * 💻 Interested in software development, security, and building useful things
 * 🌿 I enjoy hiking, exploring new ideas, and learning through hands-on projects
-* 🌐 Check out my <a href="https://palden-4portfolio.vercel.app">portfolio website</a>
+* 🌐 Check out my <a href="https://palden-4portfolio.vercel.app">personal website</a>
 
 ### 📫 Get in Touch
 
