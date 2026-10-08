@@ -13,7 +13,7 @@
 ## 🌱 A Little About Me
 
 * 🎓 Computer Science graduate from **The University of Hong Kong**
-* 🛡️ Currently pursuing my path toward **Cybersecurity**
+* 🛡️ Currently pursuing my path toward **Cybersecurity** at the **Royal Melbourne Institute of Technology (RMIT)**
 * 💻 Interested in software development, security, and building useful things
 * 🌿 I enjoy hiking, exploring new ideas, and learning through hands-on projects
 * 🌐 Check out my <a href="https://palden-4portfolio.vercel.app">personal website</a>
